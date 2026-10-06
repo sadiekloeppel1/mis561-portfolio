@@ -6,4 +6,5 @@ Portfolio of Projects from my data visualization course. This will include the c
 2. Account Profitability Analysis, Build a set of dashboards analyzing account-level profitability to recommend how Southwest Office Solutions should adjust its discounting, https://public.tableau.com/views/MIS561AdvancinginExcelandTableau-Pt_2/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link, If I were to do this again, I would start with the customer-level scatter instead of the tier averages, since the averages hid how much profitability varied between individual accounts.
 
 3. Data Camp - Introduction to Power BI, Completed 09/29/2026, https://public.tableau.com/views/PowerBITrainingCertificates_17907431344680/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-   
+
+4. Data Camp - Introduction to DAX in Power BI, Completed 10/05/2026, https://public.tableau.com/views/PowerBITrainingCertificates_17907431344680/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
