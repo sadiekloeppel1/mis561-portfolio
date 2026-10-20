@@ -21,3 +21,5 @@ Tableau for quick exploration and public sharing, as in my Flex 3 e-commerce pro
 Power BI for recurring reports whose data needs cleaning every time. Power Query does that prep inside the tool, which ends the Excel-to-Tableau back-and-forth I ran into in Flex 3 and 4.
 
 My gap: every Power BI report I’ve built ran on course files. I have never published to the Power BI Service or scheduled a refresh. To close it, I will rebuild the Account Portfolio Dashboard in Power BI Desktop, publish it with my university account, set a weekly refresh, and send you the link by EOD.
+
+6. MIS 561 Advancing in Excel and Tableau - Pt. 3, Deciding which batch of cards are eligible for early replacement, https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness_17924687496970/ReplacementCards-BarChart?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link, If I were to do this assignment again, I would have looked at other criteria for early replacement eligibility and I would have spent more time formatting the colors.
