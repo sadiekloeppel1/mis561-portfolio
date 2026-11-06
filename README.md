@@ -26,6 +26,6 @@ My gap: every Power BI report I’ve built ran on course files. I have never pub
 
 7. Nov 2, 2026 · Data Storytelling with Adobe Express
 Work sample for Marcus Reyes, VP of Sales at Southwest Office Solutions: implement margin-based discount limits to improve account profitability by targeting high-discount, low-margin accounts.
-[Work sample (PDF)]([https://github.com/...](https://github.com/sadiekloeppel1/mis561-portfolio/blob/main/adobe/kloeppel-data-storytelling-2.pdf)) · [Adobe Express]([https://...](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:3c6acb8b-b488-4607-9824-84e3ce678408?accept=true&invite=true&promoid=Z2G1FQKR&mv=other))
+(https://github.com/sadiekloeppel1/mis561-portfolio/blob/main/adobe/kloeppel-data-storytelling-2.pdf) · (https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:3c6acb8b-b488-4607-9824-84e3ce678408?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
 Design Choice: I used a scatter plot to illustrate the negative relationship between average discounts and profit margins across account tiers. Each point represents an account, with color indicating service tier and size representing total revenue. I chose this visualization over a bar chart because it highlights customer-level variation and better supports my recommendation to target high-discount, low-margin accounts rather than applying discount reductions across all customers.
 Training completed: Nov 5, 2026
