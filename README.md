@@ -24,8 +24,20 @@ My gap: every Power BI report I’ve built ran on course files. I have never pub
 
 6. MIS 561 Advancing in Excel and Tableau - Pt. 3, Deciding which batch of cards are eligible for early replacement, https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness_17924687496970/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link, If I were to do this assignment again, I would have looked at other criteria for early replacement eligibility and I would have spent more time formatting the colors.
 
-7. Nov 2, 2026 · Data Storytelling with Adobe Express
+7. **Nov 2, 2026 · Data Storytelling with Adobe Express**
 Work sample for Marcus Reyes, VP of Sales at Southwest Office Solutions: implement margin-based discount limits to improve account profitability by targeting high-discount, low-margin accounts.
 (https://github.com/sadiekloeppel1/mis561-portfolio/blob/main/adobe/kloeppel-data-storytelling-2.pdf) · (https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:3c6acb8b-b488-4607-9824-84e3ce678408?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
 Design Choice: I used a scatter plot to illustrate the negative relationship between average discounts and profit margins across account tiers. Each point represents an account, with color indicating service tier and size representing total revenue. I chose this visualization over a bar chart because it highlights customer-level variation and better supports my recommendation to target high-discount, low-margin accounts rather than applying discount reductions across all customers.
 Training completed: Nov 5, 2026
+
+8. **November 16, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Marcus Reyes, VP of Sales at Southwest Office Solutions: approve a six-week first phase to develop targeted discount guidelines for Self-Serve accounts and prepare a limited pilot to improve net contribution.
+
+[Pitch deck (PDF)]((https://github.com/sadiekloeppel1/mis561-portfolio/blob/main/adobe/kloeppel-product-pitch.pdf)) · [Adobe Express]((https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:6d6852d1-edd5-5163-8548-d535a0b4d415?accept=true&invite=true&promoid=Z2G1FQKR&mv=other))
+
+Toughest objection: "Why prioritize Self-Serve accounts when Inside Sales has a negative net contribution?" Slide 3 addresses this by focusing on Self-Serve's high discounts and low profit margins as an opportunity to improve its existing positive net contribution. The six-week project will identify priority accounts and develop targeted discount guidelines rather than making across-the-board changes.
+
+AI use: ChatGPT (OpenAI) was used to brainstorm and refine action-oriented slide titles and generate branded visuals for Slide 5 (six-week project timeline) and Slide 6 (approval request), Nov 16, 2026.
+
+Training completed: November 16, 2026
