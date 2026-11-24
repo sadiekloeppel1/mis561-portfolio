@@ -41,3 +41,13 @@ Toughest objection: "Why prioritize Self-Serve accounts when Inside Sales has a 
 AI use: ChatGPT (OpenAI) was used to brainstorm and refine action-oriented slide titles and generate branded visuals for Slide 5 (six-week project timeline) and Slide 6 (approval request), Nov 16, 2026.
 
 Training completed: November 16, 2026
+
+**November 23, 2026 · Brand Standard Application in Tableau**
+
+Rebranded a public IMDb movie dashboard, then created an editorial analysis for Priya Natarajan, Editorial Director for IMDb Originals, to determine whether to fund a recurring video series featuring non-English-language films and which languages to prioritize.
+
+[Tableau workbook](https://public.tableau.com:9443/views/BrandStandardApplication-IMDb/Explanatory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+One thing I’d change: I would consider which visualizations would look best given color and contrast constraints. I would also spend more time editing visual elements on the charts rather than focusing on other formatting.
+
+AI use: ChatGPT assisted with Tableau calculated fields, chart selection, troubleshooting, and interpreting findings to support the final recommendation, November 23, 2026
