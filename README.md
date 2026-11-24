@@ -46,7 +46,7 @@ Training completed: November 16, 2026
 
 Rebranded a public IMDb movie dashboard, then created an editorial analysis for Priya Natarajan, Editorial Director for IMDb Originals, to determine whether to fund a recurring video series featuring non-English-language films and which languages to prioritize.
 
-[Tableau workbook](https://public.tableau.com:9443/views/BrandStandardApplication-IMDb/Explanatory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau workbook][(https://public.tableau.com/views/BrandStandardApplication-IMDb/DataMoviesIMDBDashboard?utm_source=chatgpt.com)]
 
 One thing I’d change: I would consider which visualizations would look best given color and contrast constraints. I would also spend more time editing visual elements on the charts rather than focusing on other formatting.
 
